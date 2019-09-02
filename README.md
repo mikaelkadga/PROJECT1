@@ -2,7 +2,7 @@
 
 1. Tampilan Awal
 
-   ![Awal](./images/tampilanutama.png)
+   ![Awal](./images/tampilanawal.png)
 
 2. Tampilan Mulai
 
@@ -10,12 +10,12 @@
 
 3. Tampilan Cara Bermain 
 
-   ![Cara](./images/tampilancarabermain.png)
+   ![Cara](./images/tampilancara.png)
 
 4. Tampilan Main
 
-   ![Main](./images/tampilan main.png)
+   ![Main](./images/tampilanmain.png)
 
 5. Tampilan Permainan Berkahir
 
-   ![GameOver](./images/tampilangameover.png)
+   ![GameOver](./images/tampilanakhir.png)
