@@ -1,1 +1,1 @@
-![awal](.\images\awal.png)
+![awal](.\images\AWAL2.png)
