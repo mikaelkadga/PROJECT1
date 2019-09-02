@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BajakLaut()
+comment1.params=v
+comment1.target=BajakLaut(int)
+comment2.params=TampilanMain
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

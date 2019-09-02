@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ikan()
+comment1.params=v
+comment1.target=Ikan(int)
+comment2.params=Laut
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
